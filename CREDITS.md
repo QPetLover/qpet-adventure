@@ -1,24 +1,12 @@
-
 # Credits
 
-This repository collects QQ Pet resources from public and community sources. Thanks to everyone who preserved, shared, mirrored, repaired, documented, and indexed these materials.
+本仓库整理 QQ 宠物冒险岛相关文件。感谢保存、分享和整理 QQ 宠物历史资源的社区成员。
 
-## Source Channels
+## Source
 
-- QQ Pet related community groups and private community backups
-- QQ Pet Tieba and other public posts or pages
-- Individual contributors who shared historical resources
-- Public web mirrors and CDN mirrors
-- Existing QPetLover public repositories and pages
+- QPetLover/QPetGames `adventure/` directory
+- QQ Pet community preservation work
 
 ## Privacy
 
-Some resources came from private QQ community discussions. We only thank the community in general and do not publish private QQ group numbers, QQ IDs, or member names unless the person explicitly asks to be credited publicly.
-
-## Special Thanks
-
-- QPetLover community contributors
-- QQ Pet Tieba community
-- Everyone who kept old QQ Pet files alive
-
-If you want to add, update, or remove a credit, please open an issue.
+如涉及来自不对外 QQ 社区的补充资料，只做整体致谢，不公开具体 QQ 群号、QQ 号或群成员昵称。

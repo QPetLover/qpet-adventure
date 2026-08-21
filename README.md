@@ -1,4 +1,3 @@
-
 # QQ Pet Adventure
 
 QQ 宠物冒险岛文件归档与静态部署站点。
@@ -19,6 +18,10 @@ python -m http.server 8000 --directory site
 ```
 
 Then open http://localhost:8000/.
+
+## Deploy
+
+The repository includes a GitHub Pages workflow that publishes the `site/` directory from `main`.
 
 ## Notice
 
