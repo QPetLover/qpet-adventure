@@ -1,0 +1,7 @@
+- id: "qpetlover-qpetgames-adventure"
+  type: "github_repository_path"
+  name: "QPetLover/QPetGames adventure directory"
+  url: "https://github.com/QPetLover/QPetGames/tree/master/adventure"
+  credit_policy: "public-source"
+  privacy: "public"
+  notes: "Original source path used to seed this standalone deployable site."

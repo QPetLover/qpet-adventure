@@ -1,0 +1,18 @@
+- id: "adventure-f8b5f3ae1c"
+  title: "index.html"
+  file: "site/index.html"
+  source_id: "qpetlover-qpetgames-adventure"
+  source_url: "https://github.com/QPetLover/QPetGames/tree/master/adventure"
+  collected_at: "2026-08-21"
+  sha256: "f050ee707e03f81b010d02fe0c034260528bba7a9c412958eb083e1b21b061da"
+  size_bytes: 1705
+  notes: "QQ Pet Adventure Island file from QPetGames adventure directory."
+- id: "adventure-6ee89b8ad6"
+  title: "myfont.swf"
+  file: "site/myfont.swf"
+  source_id: "qpetlover-qpetgames-adventure"
+  source_url: "https://github.com/QPetLover/QPetGames/tree/master/adventure"
+  collected_at: "2026-08-21"
+  sha256: "3e932db5fd6e3f814978b32c82c85a1a305cb7c349b2ba9d5b3eabfe3e7e837c"
+  size_bytes: 2055402
+  notes: "QQ Pet Adventure Island file from QPetGames adventure directory."
