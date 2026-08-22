@@ -12,3 +12,11 @@
   credit_policy: "open-source"
   privacy: "public"
   notes: "Vendored ruffle.js, core chunks and wasm files from ruffle-0.5.0-web-selfhosted.zip (Apache-2.0 / MIT)."
+
+- id: "wzhecnu-server-var-www-cdn"
+  type: "self_hosted_server"
+  name: "wzhecnu Aliyun server /var/www/cdn"
+  url: "https://cdn.wzhecnu.cn/"
+  credit_policy: "public-source"
+  privacy: "public"
+  notes: "Original adventure game files recovered from the server web root on 2026-08-22."
