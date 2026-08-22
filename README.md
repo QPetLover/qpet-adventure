@@ -9,7 +9,7 @@ This repository deploys the QQ Pet Adventure Island game as its own standalone s
 - `site/index.html` - static page entry with the Ruffle player
 - `site/myfont.swf` - font Flash resource used by the page
 - `site/vendor/ruffle/` - vendored Ruffle v0.5.0 web runtime (Apache-2.0 / MIT), self-hosted
-- `site/xmxd.swf` - the Adventure Island game file (**pending**: not yet recovered from public sources; the page shows a notice until this file is archived here)
+- `site/xmxd.swf` - the Adventure Island game loader, plus its part files `xmxd_*_*.swf` and `risk_check.xml` (recovered from the wzhecnu server on 2026-08-22, Git LFS)
 - `metadata/files.yml` - archived file metadata
 - `metadata/checksums.sha256` - SHA-256 verification manifest
 - `docs/deploy.md` - deployment notes
