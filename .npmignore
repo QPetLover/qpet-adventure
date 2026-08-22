@@ -1,0 +1,3 @@
+# Placeholder: exclude SWF assets until collaborators confirm readiness
+*.swf
+**/*.swf

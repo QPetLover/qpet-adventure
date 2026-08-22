@@ -19,12 +19,15 @@
     "archive"
   ],
   "files": [
-    "site/",
+    "site/index.html",
+    "site/vendor/",
+    "site/risk_check.xml",
     "metadata/",
     "README.md",
     "NOTICE.md",
     "CREDITS.md",
-    "LICENSE"
+    "LICENSE",
+    "docs/"
   ],
   "engines": {
     "node": ">=18"
