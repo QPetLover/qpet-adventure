@@ -2,7 +2,7 @@
 
 QQ 宠物冒险岛文件归档与静态部署站点。
 
-This repository keeps the QQ Pet Adventure Island files separate from the general [`awesome-qq-pet`](https://github.com/QPetLover/awesome-qq-pet) collection, because it is better maintained as its own deployable site.
+This repository keeps the QQ Pet Adventure Island files separate from the general [`awesome-qpet-games`](https://github.com/QPetLover/awesome-qpet-games) collection, because it is better maintained as its own deployable site.
 
 ## Contents
 
