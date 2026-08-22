@@ -1,0 +1,32 @@
+{
+  "name": "qpet-adventure",
+  "version": "0.0.1",
+  "description": "QQ 宠物冒险岛 (QQ Pet Adventure Island) deployable game package: static site, SWF assets, and the Ruffle Flash runtime.",
+  "license": "MIT",
+  "homepage": "https://qpetlover.cn/qpet-adventure/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QPetLover/qpet-adventure.git"
+  },
+  "keywords": [
+    "qpet",
+    "qq-pet",
+    "adventure",
+    "flash",
+    "swf",
+    "ruffle",
+    "game",
+    "archive"
+  ],
+  "files": [
+    "site/",
+    "metadata/",
+    "README.md",
+    "NOTICE.md",
+    "CREDITS.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
