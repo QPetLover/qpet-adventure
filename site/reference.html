@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <title>QQ宠物冒险岛 · 原版对照</title>
+  <link rel="stylesheet" href="./reference.css">
+  <script>window.RufflePlayer={config:{fontSources:['./myfont.swf'],defaultFonts:{sans:['站酷快乐体2016修订版'],serif:['站酷快乐体2016修订版'],typewriter:['站酷快乐体2016修订版']},scale:'showAll',forceScale:true,autoplay:'off',unmuteOverlay:'hidden',logLevel:'warn',allowScriptAccess:true}};</script>
+  <script src="./vendor/ruffle/ruffle.js"></script>
+  <script type="module" src="./reference.mjs"></script>
+</head>
+<body><main>
+  <header><h1>QQ宠物冒险岛 · 原版对照</h1><a id="native" target="_blank" rel="noopener noreferrer">打开原生网页版 ↗</a></header>
+  <p>这里通过 Ruffle 播放归档的原始 SWF，供原生网页版对照。</p>
+  <form id="selection">
+    <label>章节 <select id="chapter"><option value="0">序章</option><option value="1" selected>第1集 · 启航</option><option value="2">第2集 · 爱情之爆发力</option><option value="3">第3集 · 贼窝</option><option value="4">第4集 · 密室</option><option value="5">第5集 · 黑暗之眼</option><option value="6">第6集 · 巨树</option><option value="7">第7集 · 巨树之颠</option><option value="8">第8集 · 大结局—宝藏</option></select></label>
+    <label>角色 <select id="variant"><option value="0">角色 1</option><option value="1">角色 2</option></select></label>
+    <button type="submit">载入原版</button>
+  </form>
+  <div id="stage" aria-label="原版游戏"></div>
+  <p id="status" role="status">正在准备原版…</p>
+  <small>方向键移动，空格互动。原件未改；通过归档来源参数保留旧宿主的运行上下文。旧账号领奖服务不在此页提供，序章仅存角色 1。这里不读写原生版通关进度。</small>
+</main></body></html>

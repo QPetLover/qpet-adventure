@@ -1,0 +1,161 @@
+{
+  "repository": "https://github.com/QPetLover/qpet-adventure",
+  "commit": "cbd3a75ee7787d62911c8ee58125931961741752",
+  "files": [
+    {
+      "file": "xmxd_0_0.swf",
+      "bytes": 2665908,
+      "sha256": "b002bcfa00f4dde41915d8404a1d0ccd929310779d04bd013c826fd9eaacafa8",
+      "historicalHosts": []
+    },
+    {
+      "file": "xmxd_1_0.swf",
+      "bytes": 4530744,
+      "sha256": "b7da73f6486bbee3c76516938c43b20407edad5cfff532b1b37d021f6eac2a68",
+      "historicalHosts": [
+        "http://client.pet.qq.com",
+        "http://gcs.qq.com",
+        "http://img.pet.qq.com",
+        "http://pet.qq.com"
+      ]
+    },
+    {
+      "file": "xmxd_1_1.swf",
+      "bytes": 4933215,
+      "sha256": "89eb7cb04d65f2670c8d1bee2cac35c86699189aacdefe2bc7133fca0bbe7852",
+      "historicalHosts": [
+        "http://client.pet.qq.com",
+        "http://gcs.qq.com",
+        "http://img.pet.qq.com",
+        "http://pet.qq.com"
+      ]
+    },
+    {
+      "file": "xmxd_2_0.swf",
+      "bytes": 3643199,
+      "sha256": "974002a3fd1945ca4f898b52439598031895bb7b4a03f0f8f61c48cb55a2df89",
+      "historicalHosts": [
+        "http://client.pet.qq.com",
+        "http://gcs.qq.com",
+        "http://img.pet.qq.com",
+        "http://pet.qq.com"
+      ]
+    },
+    {
+      "file": "xmxd_2_1.swf",
+      "bytes": 3660069,
+      "sha256": "83ba17eecacebd760298d22b18680e7e1efe0109f896ab8555af04a6897e6c33",
+      "historicalHosts": [
+        "http://client.pet.qq.com",
+        "http://gcs.qq.com",
+        "http://img.pet.qq.com",
+        "http://pet.qq.com"
+      ]
+    },
+    {
+      "file": "xmxd_3_0.swf",
+      "bytes": 3575085,
+      "sha256": "ad5331eb30a5741d8efdcac7dbf8b158202676ebfd0d991ea610d86c16c41b98",
+      "historicalHosts": [
+        "http://client.pet.qq.com",
+        "http://gcs.qq.com",
+        "http://img.pet.qq.com",
+        "http://pet.qq.com"
+      ]
+    },
+    {
+      "file": "xmxd_3_1.swf",
+      "bytes": 3696408,
+      "sha256": "07b05236ae2211eaa7befdcf52d9ca21fbaf245e6a4d161879021780ab98c266",
+      "historicalHosts": [
+        "http://client.pet.qq.com",
+        "http://gcs.qq.com",
+        "http://img.pet.qq.com",
+        "http://pet.qq.com"
+      ]
+    },
+    {
+      "file": "xmxd_4_0.swf",
+      "bytes": 3100930,
+      "sha256": "fc4c489426b4fbafac0b500093a43491869fd30bbd341890b7cfdc6355602c85",
+      "historicalHosts": [
+        "http://gcs.qq.com"
+      ]
+    },
+    {
+      "file": "xmxd_4_1.swf",
+      "bytes": 3421040,
+      "sha256": "69bae3798c0e0e414f775da562ad8c8c63707efd64bd6accc24f709d4b21339d",
+      "historicalHosts": [
+        "http://client.pet.qq.com",
+        "http://gcs.qq.com",
+        "http://img.pet.qq.com",
+        "http://pet.qq.com"
+      ]
+    },
+    {
+      "file": "xmxd_5_0.swf",
+      "bytes": 5542048,
+      "sha256": "a2bb68b8e97e7454e0b9ee84def0b138be754bbe091780acb73814fc43da63cd",
+      "historicalHosts": [
+        "http://gcs.qq.com"
+      ]
+    },
+    {
+      "file": "xmxd_5_1.swf",
+      "bytes": 5777568,
+      "sha256": "a408c22148142dc415e8916dab07b76116263c13c6b21172f849a7e18b4795b1",
+      "historicalHosts": [
+        "http://gcs.qq.com"
+      ]
+    },
+    {
+      "file": "xmxd_6_0.swf",
+      "bytes": 6375536,
+      "sha256": "37775dcb50780c0a9824b6ec0bbb9aeb1af0383123a02aa56fb0d9ad0e8da3d1",
+      "historicalHosts": [
+        "http://gcs.qq.com"
+      ]
+    },
+    {
+      "file": "xmxd_6_1.swf",
+      "bytes": 6376749,
+      "sha256": "5e861760a8b1e3b479e1c87dcc9bbccfbc6c94821d933cbaf048066768431db9",
+      "historicalHosts": [
+        "http://gcs.qq.com"
+      ]
+    },
+    {
+      "file": "xmxd_7_0.swf",
+      "bytes": 7185684,
+      "sha256": "f7f95b4658ea15e8ea317c6a8ff25f4e3f7ce37fd07f33958dcec6574011ea3d",
+      "historicalHosts": [
+        "http://gcs.qq.com"
+      ]
+    },
+    {
+      "file": "xmxd_7_1.swf",
+      "bytes": 7286084,
+      "sha256": "c0be6027a337c247d0cefb6418e18e757cf19224d03ea9040e70fb21935e991e",
+      "historicalHosts": [
+        "http://gcs.qq.com"
+      ]
+    },
+    {
+      "file": "xmxd_8_0.swf",
+      "bytes": 5751545,
+      "sha256": "2e29f2672376d2cdb223ebb8d61bb69e01eddfabccb76daf55efcb4ddb528cd4",
+      "historicalHosts": [
+        "http://gcs.qq.com"
+      ]
+    },
+    {
+      "file": "xmxd_8_1.swf",
+      "bytes": 5892650,
+      "sha256": "25df512e7688db3670398f71d73e77f93ab34fe4949a69e5e867aff072374242",
+      "historicalHosts": [
+        "http://gcs.qq.com"
+      ]
+    }
+  ]
+}
